@@ -1,4 +1,4 @@
-# CS242: Informatin Retrieval Project Part A - Crawling movie-related tweets using TweePy and Indexing using PyLucene
+# Crawling movie-related tweets using TweePy and Indexing using PyLucene
 
 **Note:** Please use an online markdown template rendering tool (<https://dillinger.io/>) to render this README correctly!\
 Go to the above mentioned webiste and paste the contents of this README file to view it correctly.
@@ -38,7 +38,7 @@ Example execution:
 
 Example execution:
 ```bash
-./rankingresults.sh -d 'movie_tweet_index/' -c 5 -q 'kranti vs pathaan'
+./rankingresults.sh -d 'movie_tweet_index/' -c 5 -q 'movie review'
 ```
 
 ## Troubleshooting
