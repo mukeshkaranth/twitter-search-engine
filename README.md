@@ -10,13 +10,6 @@ The functionality of this project is three-fold:
 - These files are then indexed using PyLucene's Standard Analyser. tweet_id, created_at and tweet_text are the 3 fields that are indexed for each tweet.
 - The user can then query the indexed documents to retrieve a ranked list of the top-k results that match the query terms.
 
-## Team Members -  Project Group 3
-- Aditya Srinivas Karamangala Amar (akara045)
-- Kaushal Bandaru (kband008)
-- Mukesh Karanth (mkara022)
-- Nazanin Nasiri Abrishamchi (nnasi004)
-- Sai Rithesh Reddy Ganta (sganta011)
-
 ## Usage
 
 - Crawling: This bash Script will help crawl twitter data based on the search query term and number of tweets provided.\
@@ -63,3 +56,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 ```
 - For any other questions or assistance, please don't hesitate to reach out to <mkara022@ucr.edu>
+
+##Copyrights
+This project was done as part of the CS242-Information Retrival course in the University of California, Riverside.
+The project was developed under the supervision of professor Vagelis Hristidis.
