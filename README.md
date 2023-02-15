@@ -57,6 +57,6 @@ nltk.download('punkt')
 ```
 - For any other questions or assistance, please don't hesitate to reach out to <mkara022@ucr.edu>
 
-##Copyrights
+## Copyrights
 This project was done as part of the CS242-Information Retrival course in the University of California, Riverside.
 The project was developed under the supervision of professor Vagelis Hristidis.
