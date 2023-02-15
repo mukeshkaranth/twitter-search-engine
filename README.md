@@ -4,7 +4,7 @@
 Go to the above mentioned webiste and paste the contents of this README file to view it correctly.
 \
 This project consists of 3 types of files: python files(.py), bash scripts(.sh) and data files(.csv)
-The functionality of this project is three-fold:
+The functionality of this project is four-fold:
 - It crawls tweets related to movies from twitter and uses twitter APIs from python's tweepy library.
 - It processes the crawled tweets to remove duplicate tweets and disregards re-tweets. It also cleans the tweet text to remove hyperlinks and emojis. Finally, the data is stored in the form of rows in .csv files.
 - These files are then indexed using PyLucene's Standard Analyser. tweet_id, created_at and tweet_text are the 3 fields that are indexed for each tweet.
