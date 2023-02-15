@@ -6,11 +6,11 @@ import pandas as pd
 from tweepy import OAuthHandler
 
 # Authentication Keys
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAOBhlQEAAAAAcRiIIjvl6dQ1bJ33FTSg9MGjlZo%3DhZXnSK2cAKkPSRRmVJJz3DQj4woRpLeAFr4JCmR1deIBBvVIG0"
-consumer_key = "YLgjFuwmF2nV50zcAsaDdTLBG"
-consumer_secret = "yS5TJvDttbCiaYp6tfKyiiiBtZSbZYbeQlATntQhWjD0eMoAgl"
-access_key = "97639091-50Tj9Z687y3iYdmiYvZp7LjNCazOIrIRWoUZvfWGq"
-access_secret = "6cxPHXrvT8GZupWyK2ZbH48XytmWCzu5dJ22DdmOFjmNe"
+bearer_token = ""
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 #Dictionary to maintain a record of crawled tweet IDs.
 duplicates = {}
