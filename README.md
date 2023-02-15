@@ -48,7 +48,7 @@ Example execution:
 pip3 install nltk
 ```
 ```bash
-pip install pandas
+pip3 install pandas
 ```
 ```python
 import nltk
